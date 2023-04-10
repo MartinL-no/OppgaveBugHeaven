@@ -24,7 +24,6 @@ namespace BugAndExceptions
 
                 customer.AddItemToShoppingCart(shop.ShopItems.Find(item => item.Id == itemNumber));
                 customer.PrintItemsInCart();
-
             }
         }
     }
