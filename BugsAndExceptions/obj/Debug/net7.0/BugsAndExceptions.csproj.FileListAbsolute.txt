@@ -1,0 +1,15 @@
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/bin/Debug/net7.0/BugsAndExceptions
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/bin/Debug/net7.0/BugsAndExceptions.deps.json
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/bin/Debug/net7.0/BugsAndExceptions.runtimeconfig.json
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/bin/Debug/net7.0/BugsAndExceptions.dll
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/bin/Debug/net7.0/BugsAndExceptions.pdb
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.csproj.AssemblyReference.cache
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.AssemblyInfoInputs.cache
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.AssemblyInfo.cs
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.csproj.CoreCompileInputs.cache
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.dll
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/refint/BugsAndExceptions.dll
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.pdb
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/BugsAndExceptions.genruntimeconfig.cache
+/Users/martin/Projects/OppgaveBugHeaven/BugsAndExceptions/obj/Debug/net7.0/ref/BugsAndExceptions.dll
